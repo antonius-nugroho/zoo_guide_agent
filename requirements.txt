@@ -1,0 +1,5 @@
+google-adk==1.28.1
+toolbox-core==1.0.0
+langchain-community==0.4.1
+wikipedia==1.4.0
+google-cloud-bigquery==3.41.0
